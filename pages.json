@@ -1,0 +1,242 @@
+{
+	"pages": [{
+			"path": "pages/home/one",
+			"style": {
+				"navigationBarTitleText": "世豪ERP",
+				"enablePullDownRefresh":false
+			}
+		},{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "世豪ERP",
+				"enablePullDownRefresh":false
+			}
+		},{
+			"path": "pages/home/form",
+			"style": {
+				"navigationBarTitleText": "报表",
+				"enablePullDownRefresh":false
+			}
+		},
+        {
+        	"path": "pages/home/attend",
+        	"style": {
+        		"navigationBarTitleText": "工作台",
+        		"enablePullDownRefresh":false
+        	}
+        },
+		{
+			"path": "pages/home/news/news",
+			"style": {
+				"navigationBarTitleText": "新闻",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/flowWork/flowWork",
+			"style": {
+				"navigationBarTitleText": "流程",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/flowWork/flowWorkDetail",
+			"style": {
+				"navigationBarTitleText": "流程",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/contract/contract",
+			"style": {
+				"navigationBarTitleText": "合同",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/contract/contractDetail",
+			"style": {
+				"navigationBarTitleText": "合同",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/phones/phones",
+			"style": {
+				"navigationBarTitleText": "通讯录",
+				"enablePullDownRefresh":false
+			}
+		},
+        {
+        	"path": "pages/home/phones/userInfo",
+        	"style": {
+        		"navigationBarTitleText": "个人资料",
+        		"enablePullDownRefresh":false
+        	}
+        },
+		{
+			"path": "pages/home/flowWork/flowWorkDetailF",
+			"style": {
+				"navigationBarTitleText": "相关流程",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/flowWork/flowWorkTalk",
+			"style": {
+				"navigationBarTitleText": "沟通",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/flowWork/flowWorkReBut",
+			"style": {
+				"navigationBarTitleText": "驳回",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/reportForm/reportForm",
+			"style": {
+				"navigationBarTitleText": "报表",
+				"enablePullDownRefresh":false
+			}
+		},
+        {
+        	"path": "pages/home/reportAttend/leave",
+        	"style": {
+        		"navigationBarTitleText": "请假",
+        		"enablePullDownRefresh":false
+        	}
+        },{
+        	"path": "pages/home/reportAttend/calendar",
+        	"style": {
+        		"navigationBarTitleText": "会议",
+        		"enablePullDownRefresh":false
+        	}
+        },{
+        	"path": "pages/home/reportAttend/calendarDetail",
+        	"style": {
+        		"navigationBarTitleText": "会议明细",
+        		"enablePullDownRefresh":false
+        	}
+        },{
+        	"path": "pages/home/reportAttend/leaderWay",
+        	"style": {
+        		"navigationBarTitleText": "领导行程",
+        		"enablePullDownRefresh":false
+        	}
+        },{
+        	"path": "pages/home/reportAttend/leaderWayAdd",
+        	"style": {
+        		"navigationBarTitleText": "新增行程",
+        		"enablePullDownRefresh":false
+        	}
+        },{
+			"path": "pages/home/reportForm1/reportForm",
+			"style": {
+				"navigationBarTitleText": "报表",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/reportForm2/reportForm",
+			"style": {
+				"navigationBarTitleText": "报表2",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/login/loginBun",
+			"style": {
+				"navigationBarTitleText": "绑定并登录",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/login/loginAuth",
+			"style": {
+				"navigationBarTitleText": "微信授权",
+				"enablePullDownRefresh":false
+			}
+		},
+
+		{
+			"path": "pages/center/center",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"enablePullDownRefresh": false,
+				"disableScroll": true
+			}
+		},
+
+		{
+			"path": "pages/center/userInfo/userInfo",
+			"style": {
+				"navigationBarTitleText": "我的资料",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/webview",
+			"style": {
+				"navigationBarTitleText": "世豪ERP",
+				"enablePullDownRefresh":false
+			}
+		},
+		{
+			"path": "pages/home/t",
+			"style": {
+				"navigationBarTitleText": "世豪ERP",
+				"enablePullDownRefresh":false
+			}
+		}
+	    ,{
+            "path" : "pages/center/settings/settings",
+            "style": {
+            	"navigationBarTitleText": "个人设置",
+            	"enablePullDownRefresh":false
+            }
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "世豪ERP",
+		"navigationBarBackgroundColor": "#FF5800",
+		"backgroundColor": "#EFEFEF"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#FF5800",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/foot_01a.png",
+				"selectedIconPath": "static/foot_01b.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/foot_04a.png",
+				"selectedIconPath": "static/foot_04b.png",
+				"text": "个人"
+			}
+		]
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+}

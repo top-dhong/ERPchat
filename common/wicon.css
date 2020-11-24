@@ -1,0 +1,57 @@
+/* 图标文件css */
+.wicon{background: url('https://wx.shine-town.com/WX/wximg/static/all_icon.png') no-repeat center;background-size: 1039upx;width: 60upx;height: 60upx;align-self: center;}
+.ficon{background: url('https://wx.shine-town.com/WX/wximg/static/all_icon.png') no-repeat center;background-size: 520px;width: 30px;height: 30px;align-self: center;}
+
+.wicon1-1{background-position:-16upx -16upx;}
+.wicon1-2{background-position:-121upx -16upx;}
+.wicon1-3{background-position:-226upx -16upx;}
+.wicon1-4{background-position:-331upx -16upx;}
+.wicon1-5{background-position:-436upx -16upx;}
+.wicon1-6{background-position:-541upx -16upx;}
+.wicon1-7{background-position:-646upx -16upx;}
+.wicon1-8{background-position:-752upx -16upx;}
+.wicon1-9{background-position:-852upx -16upx;}
+
+.wicon2-1{background-position: 0 -122upx;}
+.wicon2-2{background-position:-90upx -122upx;}
+.wicon2-3{background-position:-176upx -122upx;}
+.wicon2-4{background-position:-266upx -122upx;}
+.wicon2-5{background-position:-354upx -122upx;}
+.wicon2-6{background-position:-440upx -122upx;}
+.wicon2-7{background-position:-528upx -122upx;}
+.wicon2-8{background-position:-614upx -122upx;}
+.wicon2-9{background-position:-702upx -122upx;}
+
+.wicon3-4 {
+background-position:-221rpx -240rpx;
+}
+
+.wicon3-9{background-position:-554upx -236upx;width: 76upx;height: 68upx;}
+
+.wicon4-1{background-position:-14upx -326upx;}
+.wicon4-2{background-position:-86upx -326upx;}
+.wicon4-3{background-position:-160upx -326upx;}
+.wicon4-4{background-position:-234upx -326upx;}
+.wicon4-5{background-position:-298upx -326upx;}
+.wicon4-6{background-position:-355upx -326upx;}
+
+.wicon4-11{background-position:-648upx -340upx;width: 44upx;height: 40upx;}
+.wicon4-12{background-position:-700upx -340upx;width: 44upx;height: 40upx;}
+
+.wicon4-14{background-position:-800upx -338upx;width: 44upx;height: 40upx;}
+.wicon4-16{background-position:-794upx -336upx;width: 44upx;height: 40upx;}
+.wicon4-17{background-position:-952upx -336upx;width: 44upx;height: 40upx;}
+
+.wicon5-1{background-position:-0 -404upx;width: 112upx;height: 90upx;}
+.wicon5-2{background-position:-112upx -404upx;width: 120upx;height: 90upx;}
+.wicon5-3{background-position:-224upx -404upx;width: 112upx;height: 90upx;}
+.wicon5-4{background-position:-336upx -404upx;width: 112upx;height: 90upx;}
+.wicon5-6{background-position:-450upx -419upx;}
+.wicon5-7{background-position:-524upx -419upx;}
+.wicon5-71{background-position:-604upx -422upx;}
+.wicon5-72{background-position:-744upx -422upx;}
+.wicon5-8{background-position:-670upx -422upx;}
+
+.ficon4-5{background-position: -149px -163px;}
+.ficon4-8{background-position: -234px -163px;width: 26px;}
+.ficon4-16{background-position: -451px -163px;}

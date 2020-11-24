@@ -1,0 +1,39 @@
+/**
+ * @说明：全局样式
+ * @作者：陈万照
+ * @公司：山东标梵互动技术有限公司
+ * @官网：http://biaofun.com/
+ * @版本：v1.0.0
+ * @时间：2020年4月28日11:28:13
+ */
+/* 阿里巴巴矢量图标库 */
+// @font-face { font-family: 'iconfont'; src: url('~@/static/fonts/iconfont.ttf') format('truetype'); }
+@font-face { font-family: 'iconfont'; src: url('https://at.alicdn.com/t/font_1787441_smf9nl811n.ttf') format('truetype'); }
+.iconfont { font-family: 'iconfont'; font-size: 30upx; } 
+
+/* 统一所有元素的盒子模型 */
+page, view, scroll-view, swiper, swiper-item, movable-area, movable-view, cover-view, cover-image,
+icon, text, rich-text, progress, burron, checkbox, editor, form, input, label, picker, picker-view, radio,
+slider, switch, textarea, navigator, audio, camera, image, video, live-player, live-pusher, map, canvas,
+web-view, ad, official-account, open-data, barcode, list, cell, recycle-list, waterfall, resresh { box-sizing: border-box; }
+
+/* page */
+page { font-size: $font-size-ab; font-size: 30upx; }
+
+/* 文本多出部分用省略号表示, 用于1行或多行 */
+.ellipsis-1 { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 1; overflow: hidden; }
+.ellipsis-2 { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+
+/* 强制不换行 */
+.nowrap { word-wrap: normal; white-space: nowrap; }
+/* 强制换行 */
+.iswrap { white-space: normal; word-wrap: break-word; word-break: break-all; }
+
+/* 边框 */
+.border { position: relative; }
+.border-bottom:after { content: ""; position: absolute; width: 100%; bottom: 0; left: 0; height: 1px; background: $color-ab; }
+.border-padding::after { width: calc(100% - 60upx); left: 30upx; }
+
+/* placeholder */ 
+.placeholder { color: $color-ac; }
+
